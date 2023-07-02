@@ -8,4 +8,4 @@
 
 💬 or through LinkedIn: https://www.linkedin.com/in/yang-lu-a47441265/
 
-⚡ Visit my personal portfolio website: (insert link here)
+🚀 Visit my personal portfolio website: (insert link here)
