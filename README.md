@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋
 
 ⚡ My name is Yang Lu and I am a computer science student from New York. 
 
