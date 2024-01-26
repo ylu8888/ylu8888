@@ -8,7 +8,7 @@ My name is Yang Lu and I am a computer science student from New York.
 
 * Research Assistant at WebGenomics with a focus on Software Development in Biomedical Informatics [Spring 2023]
   
-* Teaching Assistant at Stony Brook University - Intro to Software Development [Spring 2024]
+* Teaching Assistant at Stony Brook University - Intro to Software Development (React, Node.js, Express, MongoDB) [Spring 2024]
 
 📬 Contact me by email: yanglu91603@gmail.com 
 
