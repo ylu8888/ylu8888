@@ -6,8 +6,6 @@ My name is Yang Lu and I am a computer science student from New York.
 
 ⚡ Work Experience:
 
-* Software Engineer Intern at Cognizant - Generative AI with Python, Machine Learning, Neural Networks [Summer 2024]
-
 * Research Assistant at WebGenomics - specializing in Software Development in Biomedical Informatics [Spring 2024]
   
 * Teaching Assistant at Stony Brook University - Software Development (React, Node.js, Express, MongoDB) [Spring 2024]
