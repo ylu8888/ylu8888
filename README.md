@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-My name is Yang Lu and I am a computer science student from New York. 
+My name is Yang Lu and I'm from Brooklyn, New York
 
-🏫 I am currently a junior at Stony Brook University with a passion for web development
+🏫 I am currently a M.Eng Computer Science student at Cornell University with a passion for web development
 
 ⚡ Work Experience:
 
-* Research Assistant at WebGenomics - specializing in Software Development in Biomedical Informatics [Spring 2024]
+* Data Science Research Assistant - focus on Recurrent Neural Networks [Spring 2025]
+
+* VIP WebGenomics Team - specializing in Software Development in Biomedical Informatics [Spring 2024]
   
-* Teaching Assistant at Stony Brook University - Software Development (React, Node.js, Express, MongoDB) [Spring 2024]
+* CS Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) [Spring 2024]
 
 📬 Contact me by email: yanglu91603@gmail.com 
 
