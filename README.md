@@ -8,7 +8,7 @@ My name is Yang Lu and I'm from Brooklyn, New York
 
 * Data Science Research Assistant - focusing on Recurrent Neural Networks and Machine Learning [Spring 2025]
 
-* VIP WebGenomics Team - specializing in Software Development in Biomedical Informatics [Spring 2024]
+* VIP WebGenomics Team - specializing in Web Development in Biomedical Informatics [Spring 2024]
   
 * CS Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) [Spring 2024]
 
