@@ -6,7 +6,7 @@ My name is Yang Lu and I'm from Brooklyn, New York
 
 ⚡ Work Experience:
 
-* Data Science Research Assistant - focus on Recurrent Neural Networks [Spring 2025]
+* Data Science Research Assistant - focusing on Recurrent Neural Networks and Machine Learning [Spring 2025]
 
 * VIP WebGenomics Team - specializing in Software Development in Biomedical Informatics [Spring 2024]
   
