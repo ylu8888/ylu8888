@@ -12,4 +12,4 @@ My name is Yang and I'm from Brooklyn, New York
   
 * CS Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) 
 
-📬 Contact me by email: yanglu91603@gmail.com or through LinkedIn: https://www.linkedin.com/in/yang-lu-a47441265/
+📬 Contact me by email: yanglu91603@gmail.com or through [LinkedIn](https://www.linkedin.com/in/yang-lu-a47441265/)
