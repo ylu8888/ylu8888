@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Yang and I'm from Brooklyn, New York
 
