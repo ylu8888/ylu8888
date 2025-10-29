@@ -2,7 +2,7 @@
 
 My name is Yang and I'm from Brooklyn, New York
 
-🏫 I am currently a Computer Science student at Cornell University
+🏫 I am a CS grad student in the M.Eng. program at Cornell University.
 
 ⚡ Work Experience:
 
