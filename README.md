@@ -6,7 +6,7 @@
 
 * Data Science Research Assistant - Recurrent Neural Networks & Machine Learning 
 
-* WebGenomics VIP Team -  Web Development in Biomedical Informatics 
+* WebGenomics -  Web Development in Biomedical Informatics 
   
 * CS Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) 
 
