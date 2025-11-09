@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🏫 I am a CS grad student at Cornell University in the M.Eng program
+🏫 I am a grad student at Cornell University in the M.Eng CS program
 
 ⚡ Work Experience:
 
