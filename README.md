@@ -10,4 +10,4 @@
   
 * CS Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) 
 
-📬 Contact me at yanglu91603@gmail.com
+📬 Contact me at yanglu91603@gmail.com or [LinkedIn](https://www.linkedin.com/in/yang-lu-a47441265/)
