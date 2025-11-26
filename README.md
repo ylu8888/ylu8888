@@ -4,7 +4,9 @@
 
 ⚡ Work Experience:
 
-* Data Science Research Assistant - Recurrent Neural Networks & Machine Learning 
+* Accenture - Technology Analyst
+
+* Data Science Research Assistant - Recurrent Neural Networks
 
 * WebGenomics -  Web Development in Biomedical Informatics 
   
