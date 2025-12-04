@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🏫 I'm a grad student at Cornell University pursuing my Masters in CS
+I'm a grad student at Cornell University pursuing my Masters in CS
 
 ⚡ Work Experience:
 
