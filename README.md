@@ -4,7 +4,7 @@ I'm a grad student at Cornell University pursuing my Masters in CS
 
 ⚡ Work Experience:
 
-* Accenture - Technology Analyst
+* Accenture - Technology Summer Analyst
 
 * Data Science Research Assistant - Recurrent Neural Networks
 
