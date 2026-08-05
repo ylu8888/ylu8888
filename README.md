@@ -12,4 +12,4 @@ I'm a grad student at Cornell University pursuing my Masters in CS
   
 * Teaching Assistant - CSE 316 Software Development (React, Node.js, Express, MongoDB) 
 
-📬 Contact me at yanglu91603@gmail.com or [LinkedIn](https://www.linkedin.com/in/yang-lu-a47441265/)
+Contact me at yanglu91603@gmail.com or [LinkedIn](https://www.linkedin.com/in/yang-lu-a47441265/)
